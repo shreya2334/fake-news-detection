@@ -1,0 +1,11 @@
+# Dataset
+*.csv
+
+# Models
+*.pkl
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
