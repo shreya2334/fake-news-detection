@@ -90,13 +90,17 @@ True Dataset![True Dataset](screenshots/true-dataset.png)
 ![Data Distribution](screenshots/data-distribution.png)
 
 ### Model Results:
-Logistic Regression ![Logistic Regression](screenshots/lr-model-results.png)
+#### Logistic Regression 
+![Logistic Regression](screenshots/lr-model-results.png)
 
-Decision Tree Classifier ![Decision Tree Classifier](screenshots/dt-model-results.png)
+#### Decision Tree Classifier 
+![Decision Tree Classifier](screenshots/dt-model-results.png)
 
-Gradient Boosting Classifier ![Gradient Boosting Classifier](screenshots/gb-model-results.png)
+#### Gradient Boosting Classifier 
+![Gradient Boosting Classifier](screenshots/gb-model-results.png)
 
-Random Tree Classifier ![Random Tree Classifier](screenshots/rf-model-results.png)
+#### Random Tree Classifier 
+![Random Tree Classifier](screenshots/rf-model-results.png)
 
 ### Model Output
 ![Model Output](screenshots/model-output.png)
